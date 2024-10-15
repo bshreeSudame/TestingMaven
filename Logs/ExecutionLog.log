@@ -1,0 +1,115 @@
+2024-10-11 16:35:43,967 - Automation -INFO - entering mobnum
+2024-10-11 16:35:44,161 - Automation -INFO - Succesful code
+2024-10-11 16:39:37,409 - Automation -INFO - entering mobnum
+2024-10-11 16:39:37,688 - Automation -INFO - Code Execution is Succesful 
+2024-10-11 16:44:12,401 - Maven Automation -INFO - entering mobnum
+2024-10-11 16:44:12,591 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-11 16:48:14,465 - Maven Automation -INFO - entering mobnum
+2024-10-11 16:48:14,651 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-11 16:54:33,301 - Maven Automation -WARN - please enter age above18
+2024-10-11 16:54:35,287 - Maven Automation -INFO - entering mobnumber
+2024-10-11 16:54:35,423 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-11 16:59:01,931 - Maven Automation -WARN - please enter age above18
+2024-10-11 16:59:04,208 - Maven Automation -INFO - entering mobnumber
+2024-10-11 16:59:04,556 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-11 17:03:47,899 - Maven Automation -WARN - please enter age above18
+2024-10-11 17:03:49,652 - Maven Automation -INFO - entering pincode
+2024-10-11 17:03:49,844 - Maven Automation -INFO - entering mobnumber
+2024-10-11 17:03:50,023 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 08:40:09,253 - Maven Automation -WARN - please enter age above18
+2024-10-14 08:40:11,048 - Maven Automation -INFO - entering pincode
+2024-10-14 08:40:11,141 - Maven Automation -INFO - entering mobnumber
+2024-10-14 08:40:11,260 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 14:22:57,898 - Maven Automation -WARN - please enter age above18
+2024-10-14 14:23:00,365 - Maven Automation -INFO - entering pincode
+2024-10-14 14:23:00,547 - Maven Automation -INFO - entering mobnumber
+2024-10-14 14:23:00,737 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 14:23:03,801 - Maven Automation -INFO - entering pincode
+2024-10-14 14:50:47,564 - Maven Automation -WARN - please enter age above18
+2024-10-14 14:50:49,950 - Maven Automation -INFO - entering pincode
+2024-10-14 14:50:50,132 - Maven Automation -INFO - entering mobnumber
+2024-10-14 14:50:50,311 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 14:50:53,335 - Maven Automation -INFO - entering pincode
+2024-10-14 14:51:00,901 - Maven Automation -WARN - please enter age above18
+2024-10-14 14:51:02,179 - Maven Automation -INFO - entering pincode
+2024-10-14 14:51:02,340 - Maven Automation -INFO - entering mobnumber
+2024-10-14 14:51:02,485 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 14:51:05,508 - Maven Automation -INFO - entering mobnumber
+2024-10-14 14:52:28,444 - Maven Automation -WARN - please enter age above18
+2024-10-14 14:52:30,276 - Maven Automation -INFO - entering pincode
+2024-10-14 14:52:30,416 - Maven Automation -INFO - entering mobnumber
+2024-10-14 14:52:30,567 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 14:52:33,588 - Maven Automation -INFO - entering pincode
+2024-10-14 14:52:45,715 - Maven Automation -WARN - please enter age above18
+2024-10-14 14:52:46,981 - Maven Automation -INFO - entering pincode
+2024-10-14 14:52:47,119 - Maven Automation -INFO - entering mobnumber
+2024-10-14 14:52:47,330 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 14:52:50,348 - Maven Automation -INFO - entering mobnumber
+2024-10-14 14:58:57,324 - Maven Automation -WARN - please enter age above18
+2024-10-14 14:58:58,943 - Maven Automation -INFO - entering pincode
+2024-10-14 14:58:59,067 - Maven Automation -INFO - entering mobnumber
+2024-10-14 14:58:59,216 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 14:59:02,234 - Maven Automation -INFO - entering pincode
+2024-10-14 14:59:09,978 - Maven Automation -WARN - please enter age above18
+2024-10-14 14:59:11,325 - Maven Automation -INFO - entering pincode
+2024-10-14 14:59:11,469 - Maven Automation -INFO - entering mobnumber
+2024-10-14 14:59:11,634 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 14:59:14,644 - Maven Automation -INFO - entering mobnumber
+2024-10-14 15:24:28,132 - Maven Automation -WARN - please enter age above18
+2024-10-14 15:24:30,430 - Maven Automation -INFO - entering pincode
+2024-10-14 15:24:30,542 - Maven Automation -INFO - entering mobnumber
+2024-10-14 15:24:30,717 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 15:24:33,742 - Maven Automation -INFO - entering pincode
+2024-10-14 15:27:23,387 - Maven Automation -WARN - please enter age above18
+2024-10-14 15:27:25,697 - Maven Automation -INFO - entering pincode
+2024-10-14 15:27:25,924 - Maven Automation -INFO - entering mobnumber
+2024-10-14 15:27:26,102 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 15:27:29,128 - Maven Automation -INFO - entering mobnumber
+2024-10-14 15:27:37,665 - Maven Automation -WARN - please enter age above18
+2024-10-14 15:27:38,919 - Maven Automation -INFO - entering pincode
+2024-10-14 15:27:39,063 - Maven Automation -INFO - entering mobnumber
+2024-10-14 15:27:39,219 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 15:27:42,240 - Maven Automation -INFO - entering pincode
+2024-10-14 16:14:48,021 - Maven Automation -WARN - please enter age above18
+2024-10-14 16:14:49,974 - Maven Automation -INFO - entering pincode
+2024-10-14 16:14:50,144 - Maven Automation -INFO - entering mobnumber
+2024-10-14 16:14:50,337 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 16:14:53,368 - Maven Automation -INFO - entering mobnumber
+2024-10-14 16:15:05,912 - Maven Automation -WARN - please enter age above18
+2024-10-14 16:15:07,365 - Maven Automation -INFO - entering pincode
+2024-10-14 16:15:07,533 - Maven Automation -INFO - entering mobnumber
+2024-10-14 16:15:07,836 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 16:15:10,846 - Maven Automation -INFO - entering pincode
+2024-10-14 16:19:40,178 - Maven Automation -WARN - please enter age above18
+2024-10-14 16:19:42,346 - Maven Automation -INFO - entering mobnumber
+2024-10-14 16:19:42,701 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 16:19:52,128 - Maven Automation -WARN - please enter age above18
+2024-10-14 16:19:53,485 - Maven Automation -INFO - entering pincode
+2024-10-14 16:25:59,436 - Maven Automation -WARN - please enter age above18
+2024-10-14 16:26:02,089 - Maven Automation -INFO - entering mobnumber
+2024-10-14 16:26:02,308 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 16:26:14,284 - Maven Automation -WARN - please enter age above18
+2024-10-14 16:26:15,655 - Maven Automation -INFO - entering pincode
+2024-10-14 16:31:42,264 - Maven Automation -WARN - please enter age above18
+2024-10-14 16:31:44,105 - Maven Automation -INFO - entering mobnumber
+2024-10-14 16:31:44,338 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 16:31:51,692 - Maven Automation -WARN - please enter age above18
+2024-10-14 16:31:53,085 - Maven Automation -INFO - entering pincode
+2024-10-14 16:38:42,074 - Maven Automation -WARN - please enter age above18
+2024-10-14 16:38:44,279 - Maven Automation -INFO - entering pincode
+2024-10-14 16:38:44,449 - Maven Automation -INFO - entering mobnumber
+2024-10-14 16:38:44,673 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 16:38:56,054 - Maven Automation -WARN - please enter age above18
+2024-10-14 16:38:57,500 - Maven Automation -INFO - entering mobnumber
+2024-10-14 16:38:57,758 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-14 16:39:08,364 - Maven Automation -WARN - please enter age above18
+2024-10-14 16:39:09,693 - Maven Automation -INFO - entering pincode
+2024-10-15 08:38:23,112 - Maven Automation -WARN - please enter age above18
+2024-10-15 08:38:24,876 - Maven Automation -INFO - entering pincode
+2024-10-15 08:38:25,033 - Maven Automation -INFO - entering mobnumber
+2024-10-15 08:38:25,200 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-15 08:38:35,102 - Maven Automation -WARN - please enter age above18
+2024-10-15 08:38:36,420 - Maven Automation -INFO - entering mobnumber
+2024-10-15 08:38:36,580 - Maven Automation -INFO - Code Execution is Succesful 
+2024-10-15 08:38:42,665 - Maven Automation -WARN - please enter age above18
+2024-10-15 08:38:43,958 - Maven Automation -INFO - entering pincode

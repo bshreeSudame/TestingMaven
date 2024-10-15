@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Waiting]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on genderButton]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on nextButton]]>
+    </line>
+    <line>
+      <![CDATA[Handling age dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on nextButton]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobileNumber]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Waiting]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on genderButton]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on nextButton]]>
+    </line>
+    <line>
+      <![CDATA[Handling age dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on nextButton]]>
+    </line>
+    <line>
+      <![CDATA[Entering pincode]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-14T16:31:35 IST" name="Default suite" finished-at="2024-10-14T16:31:53 IST" duration-ms="18268">
+    <groups>
+    </groups>
+    <test started-at="2024-10-14T16:31:35 IST" name="Default test" finished-at="2024-10-14T16:31:53 IST" duration-ms="18268">
+      <class name="coverfoxTEST.TC5552_CoverFox_BannerCount2">
+        <test-method is-config="true" signature="details()[pri:0, instance:coverfoxTEST.TC5552_CoverFox_BannerCount2@5bda8e08]" started-at="2024-10-14T16:31:35 IST" name="details" finished-at="2024-10-14T16:31:44 IST" duration-ms="8757" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser]]>
+            </line>
+            <line>
+              <![CDATA[Waiting]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on genderButton]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on nextButton]]>
+            </line>
+            <line>
+              <![CDATA[Handling age dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on nextButton]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="validatePincodeErrMsg()[pri:-1, instance:coverfoxTEST.TC5552_CoverFox_BannerCount2@5bda8e08]" started-at="2024-10-14T16:31:44 IST" name="validatePincodeErrMsg" finished-at="2024-10-14T16:31:44 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering mobileNumber]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatePincodeErrMsg -->
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:coverfoxTEST.TC5552_CoverFox_BannerCount2@5bda8e08]" started-at="2024-10-14T16:31:44 IST" name="closeapplication" finished-at="2024-10-14T16:31:44 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+        <test-method is-config="true" signature="details()[pri:0, instance:coverfoxTEST.TC5552_CoverFox_BannerCount2@5bda8e08]" started-at="2024-10-14T16:31:44 IST" name="details" finished-at="2024-10-14T16:31:53 IST" duration-ms="8508" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser]]>
+            </line>
+            <line>
+              <![CDATA[Waiting]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on genderButton]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on nextButton]]>
+            </line>
+            <line>
+              <![CDATA[Handling age dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on nextButton]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="validateMobileNumErrorMsg()[pri:0, instance:coverfoxTEST.TC5552_CoverFox_BannerCount2@5bda8e08]" started-at="2024-10-14T16:31:53 IST" name="validateMobileNumErrorMsg" finished-at="2024-10-14T16:31:53 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering pincode]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateMobileNumErrorMsg -->
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:coverfoxTEST.TC5552_CoverFox_BannerCount2@5bda8e08]" started-at="2024-10-14T16:31:53 IST" name="closeapplication" finished-at="2024-10-14T16:31:53 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- coverfoxTEST.TC5552_CoverFox_BannerCount2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
