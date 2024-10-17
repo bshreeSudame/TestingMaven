@@ -81,5 +81,6 @@ public class TC555_CoverFox_BannerCount extends BaseClass {
 	public void closeapplication()
 	{
 		closingBrowser();
+		Reporter.log("Browser closed", true);
 	}
 }
