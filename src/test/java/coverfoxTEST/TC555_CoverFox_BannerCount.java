@@ -75,6 +75,7 @@ public class TC555_CoverFox_BannerCount extends BaseClass {
 		int totalbannercount = cresult.bannerCount();
 		Assert.assertEquals(totaltextcount, totalbannercount, "text are not matching ,tc failed");
 		Reporter.log("Results are matched hence proceed", true);
+		Reporter.log("Changes done by Bhagyashree",true);
 	   // Assert.fail();
 	}
 

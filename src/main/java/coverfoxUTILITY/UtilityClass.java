@@ -30,13 +30,13 @@ public class UtilityClass
 	
 	public static String readDataFromExcel( String fileName ,String SheetName,int rowNum,int cellNum) throws EncryptedDocumentException, IOException
 	{
-		FileInputStream file = new FileInputStream("C:\\Users\\anilj\\.eclipse\\Automation_Selenium\\DataSheet\\file1.xlsx");
+		FileInputStream file = new FileInputStream("C:\\Users\\ABC\\git\\AutomationP\\DataSheet\\file1.xlsx");
 		String value = WorkbookFactory.create(file).getSheet(SheetName).getRow(rowNum).getCell(cellNum).getStringCellValue();
 	    return value;
 	}
 	public static String readDatafromPropertiesFile(String key) throws IOException
 	{
-		FileInputStream myfile = new FileInputStream("C:\\Users\\anilj\\.eclipse\\Automation_Selenium\\src\\config.properties");
+		FileInputStream myfile = new FileInputStream("C:\\Users\\ABC\\eclipse-workspace\\Testing_MavenGroup\\propertyfile.properties");
 	    Properties prop = new Properties();
 	    prop.load(myfile);
 	    String value = prop.getProperty(key);
